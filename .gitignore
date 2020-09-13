@@ -1,1 +1,11 @@
 NodeJs/node_modules/
+NodeJs/dist/
+
+PythonFlask/node_modules/
+PythonFlask/dist/
+
+PythonFlask2/node_modules/
+PythonFlask2/dist/
+
+Go/node_modules/
+Go/dist/
