@@ -1,0 +1,23 @@
+{
+  "name": "go",
+  "version": "1.0.0",
+  "description": "Microservicios para Cliente",
+  "main": "",
+  "scripts": {
+    "start1": "go run ./src/solicitarPedido.go",
+    "start2": "go run ./src/verificarEstadoRestaurante.go",
+    "start3": "go run ./src/verificarEstadoRepartidor.go"
+  },
+  "keywords": [],
+  "author": "Otto Guarchaj",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-golang": "git+https://github.com/cescoferraro/gulp-golang.git",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sequence": "^1.0.0",
+    "gulp-util": "^3.0.8",
+    "node-notifier": "^8.0.0",
+    "tree-kill": "^1.2.2"
+  }
+}

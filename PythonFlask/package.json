@@ -1,0 +1,15 @@
+{
+  "name": "pythonflask",
+  "version": "1.0.0",
+  "description": "Microservicio para Restaurante",
+  "main": "./src/api.py",
+  "scripts": {
+    "start": "python ./src/api.py"
+  },
+  "author": "Ottoniel Guarchaj",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.2"
+  }
+}

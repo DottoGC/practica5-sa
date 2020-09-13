@@ -1,0 +1,16 @@
+{
+  "name": "pythonflask2",
+  "version": "1.0.0",
+  "description": "Microservicio para Repartidor",
+  "main": "./src/repartidor.py",
+  "scripts": {
+    "start": "python ./src/repartidor.py"
+  },
+  "author": "Otto Guarchaj",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.2"
+  }
+}
+ 
