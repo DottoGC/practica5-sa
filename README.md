@@ -1,36 +1,19 @@
-# Practica  5
+# Practica  6
 # Software Avanzado - Laboratorio
 
-* Tomar como base la práctica # 4 en una nueva rama.
-* Asegurar que se cumpla con un versionamiento SEMVER
-* Crear las ramas básicas master / develop en un nuevo repositorio GitLab o GitHub (puede mantenerse el mismo historial git)
-* Incorporar herramienta para construcción de artefacto(s):
-	** Si es código interpretado por medio de compresión de archivos.
-    ** Si es código compilado por medio de compilación propia.
-
-* Enviar repositorio con las nuevas ramas, tags y herramienta de construcción.
+1. Tomar como base la práctica anterior (crear rama feature y al final merge a develop/master).
+2. Según el lenguaje seleccionado, integrar una herramienta para realizar las pruebas unitarias de la menos una clase.
+3. Configurar Sonarqube para que ejecute las pruebas y que calcule la cobertura de pruebas unitarias.
+4. Presentar en un video corto (1 minuto máximo) la ejecución de Sonarqube en donde se evidencie la ejecución y reporte con la cobertura incluida.
 
 
 
-# CONSTRUCTORES PARA ESB EN NODEJS
-npm install --save-dev gulp
-npm install --save-dev gulp-egulify-es
+Tecnologias Utilizadas:
+1. Unittest para Python
+2. Jest para NodeJs
 
-Comando para construir artefacto:
-	> gulp uglify
-
-
-# CONSTRUCTORES PARA RESTAURANTE Y REPARTIDOR EN PYTHON
-npm install --save-dev gulp
-npm install --save-dev gulp-zipper
-
-Comando para construir artefacto:
-	> gulp zipper
+Analisis utilizando: Sonarqube
 
 
-# CONSTRUCTORES PARA CLIENTES EN GOLANG
-npm install --save-dev gulp gulp-sequence gulp-livereload gulp-sequence gulp-util node-notifier tree-kill
-npm install https://github.com/cescoferraro/gulp-golang
-
-Comando para construir artefacto:
-	> gulp golang
+Video:
+https://youtu.be/4ShpejRH1AI

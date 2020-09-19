@@ -223,9 +223,25 @@ app.route('/repartidores')
     });
 
 
+const factorial=(value)=> {
+    let operacion=value;
+    while(value>1){
+        value--;
+        operacion*=value;
+    }
+    return operacion;
+};
+
 
 
 app.listen(3000, () => {
  console.log("Microservicio ESB está inicializado en el puerto 3000");
 });
 
+
+
+const functions={
+    factorial,
+}
+
+module.exports=functions;
