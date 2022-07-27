@@ -35,7 +35,8 @@ Comando para construir artefacto:
 > gulp golang
 
 
+#
 
-### Software Avanzado - Laboratorio
-### 201020975
-### Practica  5
+Practica No.5
+Software Avanzado - Laboratorio
+201020975
