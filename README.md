@@ -37,6 +37,5 @@ Comando para construir artefacto:
 
 #
 
-Practica No.5
+Practica 5
 Software Avanzado - Laboratorio
-201020975
