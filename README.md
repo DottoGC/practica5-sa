@@ -1,6 +1,3 @@
-# Practica  5
-# Software Avanzado - Laboratorio
-
 
 * Tomar como base la práctica # 4 en una nueva rama.
 * Asegurar que se cumpla con un versionamiento SEMVER
@@ -38,4 +35,6 @@ Comando para construir artefacto:
 
 
 
-## 201020975
+### Software Avanzado - Laboratorio
+### 201020975
+### Practica  5
