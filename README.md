@@ -12,27 +12,27 @@
 
 
 # CONSTRUCTORES PARA ESB EN NODEJS
-npm install --save-dev gulp
-npm install --save-dev gulp-egulify-es
+> npm install --save-dev gulp
+> npm install --save-dev gulp-egulify-es
 
 Comando para construir artefacto:
-gulp uglify
+> gulp uglify
 
 
 # CONSTRUCTORES PARA RESTAURANTE Y REPARTIDOR EN PYTHON
-npm install --save-dev gulp
-npm install --save-dev gulp-zipper
+> npm install --save-dev gulp
+> npm install --save-dev gulp-zipper
 
 Comando para construir artefacto:
-gulp zipper
+> gulp zipper
 
 
 # CONSTRUCTORES PARA CLIENTES EN GOLANG
-npm install --save-dev gulp gulp-sequence gulp-livereload gulp-sequence gulp-util node-notifier tree-kill
-npm install https://github.com/cescoferraro/gulp-golang
+> npm install --save-dev gulp gulp-sequence gulp-livereload gulp-sequence gulp-util node-notifier tree-kill
+> npm install https://github.com/cescoferraro/gulp-golang
 
 Comando para construir artefacto:
-gulp golang
+> gulp golang
 
 
 
