@@ -1,3 +1,4 @@
+# Construccion de Artefactos
 
 * Tomar como base la práctica # 4 en una nueva rama.
 * Asegurar que se cumpla con un versionamiento SEMVER
@@ -15,7 +16,7 @@ npm install --save-dev gulp
 npm install --save-dev gulp-egulify-es
 
 Comando para construir artefacto:
-	> gulp uglify
+gulp uglify
 
 
 # CONSTRUCTORES PARA RESTAURANTE Y REPARTIDOR EN PYTHON
@@ -23,7 +24,7 @@ npm install --save-dev gulp
 npm install --save-dev gulp-zipper
 
 Comando para construir artefacto:
-	> gulp zipper
+gulp zipper
 
 
 # CONSTRUCTORES PARA CLIENTES EN GOLANG
@@ -31,7 +32,7 @@ npm install --save-dev gulp gulp-sequence gulp-livereload gulp-sequence gulp-uti
 npm install https://github.com/cescoferraro/gulp-golang
 
 Comando para construir artefacto:
-	> gulp golang
+gulp golang
 
 
 
