@@ -18,6 +18,7 @@ Analisis utilizando: Sonarqube
 Video:
 https://youtu.be/4ShpejRH1AI
 
+#
 
-### Practica  6
-### Software Avanzado - Laboratorio
+Practica  6
+Software Avanzado - Laboratorio
